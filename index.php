@@ -1,7 +1,7 @@
 <?php
 
 
-// // Nafisa get 80% number is ssc exam.What gpa she required?
+// // Nafisa get 80% number in ssc exam.What will she get the GPA?
 $number =0;
 function result ($number){
     if($number > 80 || $number === 80){
